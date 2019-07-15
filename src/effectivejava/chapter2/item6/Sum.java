@@ -13,7 +13,7 @@ public class Sum {
     }
 
     public static void main(String[] args) {
-        System.out.println("!1111");
+
         System.out.println("333");
         int numSets = Integer.parseInt(args[0]);
         long x = 0;
